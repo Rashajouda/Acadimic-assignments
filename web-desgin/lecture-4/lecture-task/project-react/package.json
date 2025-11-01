@@ -9,6 +9,8 @@
   "preview": "vite preview",
   "deploy": "gh-pages -d dist"
 },
+"homepage": "https://rashajouda.github.io/Acadimic-assignments",
+
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
