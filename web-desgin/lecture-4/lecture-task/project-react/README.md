@@ -51,7 +51,6 @@ The main goal is to understand React fundamentals such as **components, props, a
 
 ## 🚀 How to Run Locally
 
-```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/Rashajouda/Acadimic-assignments.git
 
@@ -63,6 +62,7 @@ npm install
 
 # 4️⃣ Run the development server
 npm run dev
+
 ---
 
 ## 📄 License
