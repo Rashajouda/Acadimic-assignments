@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'Acadimic-assignments/web desgin and development/lecture-4/lecture-task/sample-project-using-react', 
+  base: '/Acadimic-assignments/web%20design%20and%20development/lecture-4/lecture-task/sample-project-using-react/',
 })
