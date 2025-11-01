@@ -24,8 +24,8 @@ The main goal is to understand React fundamentals such as **components, props, a
 |------|----------------|
 | ✨ **Rasha Jouda** | [@Rashajouda](https://github.com/Rashajouda) |
 | 🌸 **Roaa Jouda** | [@roaajouda](https://github.com/roaajouda) |
-| 🌼 ** Salma Nabil | [@Salma-Nabil-Afify](https://github.com/Salma-Nabil-Afify) |
-| 💫 **Ahemd Salama **| [@Ahmed-Salamaa](https://github.com/Ahmed-Salamaa) |
+| 🌼 **Salma Nabil** | [@Salma-Nabil-Afify](https://github.com/Salma-Nabil-Afify) |
+| 💫 **Ahemd Salama**| [@Ahmed-Salamaa](https://github.com/Ahmed-Salamaa) |
 
 ## 🧩 Features
 
