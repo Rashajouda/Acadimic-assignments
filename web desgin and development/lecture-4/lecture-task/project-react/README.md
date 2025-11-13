@@ -1,16 +1,72 @@
-# React + Vite
+# 🎨 Sample React Project — Web Design & Development
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created as part of a **Web Design and Development** course.  
+It’s a simple and modern **React + Vite** application designed to practice building responsive UI components and organizing a project using React’s component-based structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Overview
 
-## React Compiler
+This single-page project demonstrates:
+- A clean and modern **header section**
+- A locally stored **image** display
+- A **team members grid** with names and roles
+- A simple **message input form** to simulate sending a message
+- Elegant and minimal **styling** using CSS or TailwindCSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The main goal is to understand React fundamentals such as **components, props, and layout composition** while maintaining a visually appealing design.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👩‍💻 Team Members
+
+| Name | GitHub Profile |
+|------|----------------|
+| ✨ **Rasha Jouda** | [@Rashajouda](https://github.com/Rashajouda) |
+| 🌸 **Roaa Jouda** | [@roaajouda](https://github.com/roaajouda) |
+| 🌼 **Salma Nabil** | [@Salma-Nabil-Afify](https://github.com/Salma-Nabil-Afify) |
+| 💫 **Ahemd Salama**| [@Ahmed-Salamaa](https://github.com/Ahmed-Salamaa) |
+
+## 🧩 Features
+
+- 🏷️ Welcome header  
+- 🖼️ Local image display  
+- 👥 Team section (grid layout)  
+- 💬 Contact input form  
+- 🎨 Simple, modern styling  
+
+---
+
+## 🧰 Technologies Used
+
+| Technology | Description |
+|-------------|-------------|
+| ⚛️ React | Front-end library for building UI components |
+| ⚡ Vite | Fast build tool for modern web apps |
+| 🎨 TailwindCSS | Utility-first CSS framework for styling |
+| 💡 JavaScript (ES6+) | Application logic and interactivity |
+| 🧱 Node.js & npm | Environment and package management |
+
+---
+
+## 🚀 How to Run Locally
+
+# 1️⃣ Clone the repository
+git clone https://github.com/Rashajouda/Acadimic-assignments.git
+
+# 2️⃣ Navigate to the project directory
+cd "web desgin and development/lecture-4/lecture-task/sample-project-using-react"
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Run the development server
+npm run dev
+
+---
+
+## 📄 License
+
+This project was created **for educational purposes only**,  
+as part of the **Web Design and Development coursework**.  
+It is not intended for commercial use.
