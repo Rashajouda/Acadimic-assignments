@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Animated Checkbox</title>
+
+<style>
+    .checkbox-container {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 18px;
+        margin: 20px;
+    }
+
+    .checkbox-container input[type="checkbox"] {
+        display: none;
+    }
+
+    .checkbox-custom {
+        width: 20px;
+        height: 20px;
+        border: 2px solid #888;
+        border-radius: 4px;
+        position: relative;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .checkbox-custom::after {
+        content: "";
+        position: absolute;
+        width: 6px;
+        height: 12px;
+        border-right: 3px solid white;
+        border-bottom: 3px solid white;
+        top: 0px;
+        left: 6px;
+        transform: scale(0) rotate(45deg);
+        transition: transform 0.25s ease;
+    }
+
+    input[type="checkbox"]:checked + .checkbox-custom {
+        background-color: #4CAF50;
+        border-color: #4CAF50;
+        box-shadow: 0 0 8px rgba(76, 175, 80, 0.6);
+    }
+
+    input[type="checkbox"]:checked + .checkbox-custom::after {
+        transform: scale(1) rotate(45deg);
+    }
+</style>
+</head>
+
+<body>
+
+<h3>Preview:</h3>
+
+<label class="checkbox-container">
+    <input type="checkbox">
+    <span class="checkbox-custom"></span>
+    Oranges
+</label>
+
+<label class="checkbox-container">
+    <input type="checkbox">
+    <span class="checkbox-custom"></span>
+    Bananas
+</label>
+
+</body>
+</html>
