@@ -1,0 +1,32 @@
+p{
+    color:red;
+}
+
+p, div{
+    
+}
+
+#myDiv p.mainClass {
+   color:rgb(22, 22, 226)
+}
+
+div p{
+    text-transform: uppercase;
+}
+
+span + div {
+
+}
+
+.mainClass {
+
+}
+
+#myDiv {
+
+}
+
+input[type="text"].myClass{
+    border-color: green;
+    outline-color:green ;
+}
