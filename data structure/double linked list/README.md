@@ -63,11 +63,11 @@ Represents the entire linked list and includes:
 git clone https://github.com/Rashajouda/Acadimic-assignments.git
 
 # 2️⃣ Navigate to the project directory
-cd "data structure/single linked list/"
+cd "data structure/double linked list/"
 
 
 # 3️⃣ Compile the C++ program:
-g++ linked_list.cpp -o linked_list
+g++ double_linked_list.cpp -o double_list
 
 
 # 4️⃣ Run the program:
